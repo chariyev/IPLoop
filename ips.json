@@ -1,0 +1,847 @@
+[
+    {
+        "county": "United States",
+        "hostName": "vpn994022998.opengw.net",
+        "ip": "135.26.110.252",
+        "SSL": {
+            "TCP": "1748",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1748",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn387665703.opengw.net",
+        "ip": "126.203.142.222",
+        "SSL": {
+            "TCP": "1439",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1439",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn638466277.opengw.net",
+        "ip": "115.37.107.192",
+        "SSL": {
+            "TCP": "1276",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1276",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn274449287.opengw.net",
+        "ip": "160.86.46.9",
+        "SSL": {
+            "TCP": "1694",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1694",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Viet Nam",
+        "hostName": "vpn919908376.opengw.net",
+        "ip": "113.166.128.178",
+        "SSL": {
+            "TCP": "443",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "443",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn203750378.opengw.net",
+        "ip": "59.138.37.210",
+        "SSL": {
+            "TCP": "1458",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1458",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn709111184.opengw.net",
+        "ip": "180.199.6.109",
+        "SSL": {
+            "TCP": "1261",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1261",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn866489158.opengw.net",
+        "ip": "218.38.233.228",
+        "SSL": {
+            "TCP": "1468",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1468",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn445624608.opengw.net",
+        "ip": "121.140.63.2",
+        "SSL": {
+            "TCP": "1578",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1578",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn700352388.opengw.net",
+        "ip": "60.129.123.130",
+        "SSL": {
+            "TCP": "1482",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1482",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn649319169.opengw.net",
+        "ip": "203.236.121.135",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn301901173.opengw.net",
+        "ip": "60.150.238.110",
+        "SSL": {
+            "TCP": "1592",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1592",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "United States",
+        "hostName": "vpn431396938.opengw.net",
+        "ip": "173.198.248.39",
+        "SSL": {
+            "TCP": "443",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "443",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "United States",
+        "hostName": "vpn719329406.opengw.net",
+        "ip": "163.182.174.159",
+        "SSL": {
+            "TCP": "992",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "992",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn418987942.opengw.net",
+        "ip": "114.202.44.244",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn342992131.opengw.net",
+        "ip": "61.21.132.170",
+        "SSL": {
+            "TCP": "1532",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1532",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn497166820.opengw.net",
+        "ip": "118.240.12.199",
+        "SSL": {
+            "TCP": "1999",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1999",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn3070.opengw.net",
+        "ip": "122.23.53.254",
+        "SSL": {
+            "TCP": "443",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "443",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn272844060.opengw.net",
+        "ip": "122.25.121.130",
+        "SSL": {
+            "TCP": "1220",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1220",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn896985580.opengw.net",
+        "ip": "116.91.218.202",
+        "SSL": {
+            "TCP": "1625",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1625",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn859208179.opengw.net",
+        "ip": "126.31.220.132",
+        "SSL": {
+            "TCP": "1745",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1745",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn850732163.opengw.net",
+        "ip": "121.124.142.126",
+        "SSL": {
+            "TCP": "1770",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1770",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn773912039.opengw.net",
+        "ip": "122.251.108.99",
+        "SSL": {
+            "TCP": "1641",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1641",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn935522576.opengw.net",
+        "ip": "152.117.155.230",
+        "SSL": {
+            "TCP": "1668",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1668",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn540686936.opengw.net",
+        "ip": "90.149.250.156",
+        "SSL": {
+            "TCP": "1250",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1250",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn226970545.opengw.net",
+        "ip": "150.46.132.155",
+        "SSL": {
+            "TCP": "1447",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1447",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn445881929.opengw.net",
+        "ip": "42.126.63.72",
+        "SSL": {
+            "TCP": "1672",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1672",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn788210631.opengw.net",
+        "ip": "222.104.3.217",
+        "SSL": {
+            "TCP": "1626",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1626",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn240130418.opengw.net",
+        "ip": "116.121.58.183",
+        "SSL": {
+            "TCP": "1586",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1586",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Japan",
+        "hostName": "vpn619528721.opengw.net",
+        "ip": "60.109.2.15",
+        "SSL": {
+            "TCP": "1953",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1953",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn278250290.opengw.net",
+        "ip": "121.135.249.65",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn803430962.opengw.net",
+        "ip": "221.160.14.215",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn169862620.opengw.net",
+        "ip": "211.117.242.78",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn721245849.opengw.net",
+        "ip": "118.220.40.213",
+        "SSL": {
+            "TCP": "1313",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1313",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn691462152.opengw.net",
+        "ip": "175.195.125.184",
+        "SSL": {
+            "TCP": "1290",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1290",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn333927354.opengw.net",
+        "ip": "125.135.182.16",
+        "SSL": {
+            "TCP": "1206",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1206",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Thailand",
+        "hostName": "vpn293717991.opengw.net",
+        "ip": "171.5.133.218",
+        "SSL": {
+            "TCP": "1777",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1777",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn914908873.opengw.net",
+        "ip": "211.105.156.136",
+        "SSL": {
+            "TCP": "1986",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1986",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn875500919.opengw.net",
+        "ip": "218.150.241.119",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn227656524.opengw.net",
+        "ip": "222.109.63.243",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn979398681.opengw.net",
+        "ip": "121.156.204.126",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn180508061.opengw.net",
+        "ip": "121.190.4.209",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn642047522.opengw.net",
+        "ip": "119.195.182.82",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn114966634.opengw.net",
+        "ip": "14.45.89.251",
+        "SSL": {
+            "TCP": "1672",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1672",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "United States",
+        "hostName": "vpn870777590.opengw.net",
+        "ip": "70.163.237.16",
+        "SSL": {
+            "TCP": "1334",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1334",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn816802499.opengw.net",
+        "ip": "115.95.124.107",
+        "SSL": {
+            "TCP": "1606",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1606",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn613260029.opengw.net",
+        "ip": "210.178.125.196",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn359195908.opengw.net",
+        "ip": "221.153.197.31",
+        "SSL": {
+            "TCP": "1816",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1816",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn864659817.opengw.net",
+        "ip": "222.118.174.217",
+        "SSL": {
+            "TCP": "1600",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1600",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn108388533.opengw.net",
+        "ip": "1.225.19.209",
+        "SSL": {
+            "TCP": "1882",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1882",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn584769586.opengw.net",
+        "ip": "61.78.221.133",
+        "SSL": {
+            "TCP": "1333",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1333",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn375180727.opengw.net",
+        "ip": "211.192.29.50",
+        "SSL": {
+            "TCP": "1374",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1374",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn466281884.opengw.net",
+        "ip": "59.26.38.159",
+        "SSL": {
+            "TCP": "1900",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1900",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn693929578.opengw.net",
+        "ip": "39.114.254.49",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn453780091.opengw.net",
+        "ip": "211.117.8.169",
+        "SSL": {
+            "TCP": "1811",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1811",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn729481091.opengw.net",
+        "ip": "1.252.215.221",
+        "SSL": {
+            "TCP": "1264",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1264",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn734777464.opengw.net",
+        "ip": "168.131.54.88",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn580297121.opengw.net",
+        "ip": "1.224.42.187",
+        "SSL": {
+            "TCP": "1544",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1544",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn357766223.opengw.net",
+        "ip": "121.137.34.160",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn446158116.opengw.net",
+        "ip": "1.237.203.223",
+        "SSL": {
+            "TCP": "1376",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1376",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn360365453.opengw.net",
+        "ip": "218.234.179.103",
+        "SSL": {
+            "TCP": "1444",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1444",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn955860295.opengw.net",
+        "ip": "14.54.160.68",
+        "SSL": {
+            "TCP": "1390",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1390",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn713897791.opengw.net",
+        "ip": "59.15.174.106",
+        "SSL": {
+            "TCP": "995",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "995",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn329636524.opengw.net",
+        "ip": "211.214.51.163",
+        "SSL": {
+            "TCP": "1594",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1594",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "Korea Republic of",
+        "hostName": "vpn459017880.opengw.net",
+        "ip": "211.107.121.162",
+        "SSL": {
+            "TCP": "1424",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1424",
+            "UDP": "Supported"
+        }
+    }
+]

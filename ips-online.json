@@ -1,0 +1,28 @@
+[
+    {
+        "county": "Japan",
+        "hostName": "vpn935522576.opengw.net",
+        "ip": "152.117.155.230",
+        "SSL": {
+            "TCP": "1668",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1668",
+            "UDP": "Supported"
+        }
+    },
+    {
+        "county": "United States",
+        "hostName": "vpn870777590.opengw.net",
+        "ip": "70.163.237.16",
+        "SSL": {
+            "TCP": "1334",
+            "UDP": "Supported"
+        },
+        "OpenVPN": {
+            "TCP": "1334",
+            "UDP": "Supported"
+        }
+    }
+]
